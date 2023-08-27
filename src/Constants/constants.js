@@ -81,13 +81,9 @@ const icons = {
 
 const introduction = {
   text: [
-    "Hello there, I'm so happy you are here! (:",
+    "Hello there",
 
-    "My name is Sara, I'm 20 and a third year computer science student based in Guatemala. I have a strong passion for the technologies related to the data base construction and UX.",
-
-    "Outside of my regular activities, I'm into drawing whenever I have some free time. I'm also a huge dog lover and enjoy playing chess for fun.",
-
-    "I'm continuously thrilled to partner with individuals and teams who wholeheartedly embrace my fervor for crafting extraordinary experiences. Your visit to my portfolio is deeply appreciated !",
+    "I'm Motasem Sulaiman, a full stack developer with a foundation in computer information systems. My journey began with a degree that instilled in me a deep understanding of software principles. Today, I'm passionate about creating user applications that seamlessly combine front-end interfaces with back-end systems",
   ],
 };
 
